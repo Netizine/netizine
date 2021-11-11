@@ -12,7 +12,7 @@ Im what you could consider a **netizine** of the web.
 while (true)
 {
   Drink(coffee);
-  SaveTheDayWith(C#);
+  SaveTheDayWith("C#");
 }
 ```
 <!--
