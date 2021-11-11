@@ -11,7 +11,8 @@ Im what you could consider a **netizine** of the web.
 ```csharp
 while (true)
 {
-  CodeThePlanet();
+  Drink(coffee);
+  SaveTheDayWith(C#);
 }
 ```
 <!--
