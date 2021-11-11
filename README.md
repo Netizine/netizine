@@ -2,7 +2,7 @@
 
 ⚡ Fun fact: Able to sit in my chair for extended periods of time without numbness or fatigue and openly admit that If debugging is the process of removing software bugs, then I guess you can define my programming methodology as the process of putting them in. Born to take risks, love what I do and always trying to push the boundaries.
 
-[![Netizine's GitHub stats](https://github-readme-stats.vercel.app/api?username=netizine)](https://github.com/netizine/github-readme-stats)
+[![Netizine's GitHub stats](https://github-readme-stats.vercel.app/api?username=netizine&theme=radical)](https://github.com/netizine/github-readme-stats)
 <!--
 **Netizine/netizine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
