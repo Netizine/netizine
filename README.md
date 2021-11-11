@@ -6,7 +6,6 @@ Im what you could consider a **netizine** of the web.
 
 Stats
 ========
---------------------------------
 [![Netizine's GitHub stats](https://github-readme-stats.vercel.app/api?username=netizine&theme=prussian&show_icons=true)](https://github.com/netizine/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netizine&layout=compact)](https://github.com/netizine/github-readme-stats)
