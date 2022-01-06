@@ -13,6 +13,7 @@ I am what you could consider a **netizine** of the web.
 [<img align="left" alt="LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/jmelvin/)
 [<img align="left" alt="Instagram"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/thenetizine/)
 <br />
+
 ## Languages and Tools:
 <img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Azure" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
@@ -30,10 +31,10 @@ I am what you could consider a **netizine** of the web.
 <img align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <br />
-<br />
 
 ## Stats:
 [![Netizine's GitHub stats](https://github-readme-stats.vercel.app/api?username=netizine&theme=prussian&show_icons=true)](https://github.com/netizine/github-readme-stats)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netizine&layout=compact)](https://github.com/netizine/github-readme-stats)
 
 ## 📕 Latest Blog Posts
