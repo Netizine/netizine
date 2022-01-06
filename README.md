@@ -1,4 +1,4 @@
-### Hi there, Im James 👋
+### Hi there, Im James - aka [Gandalf] 👋
 
 I am what you could consider a **netizine** of the web. 
 <br />
