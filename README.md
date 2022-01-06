@@ -11,9 +11,9 @@ I am what you could consider a **netizine** of the web.
 
 ### Connect with me:
 <br />
-[<img align="left" alt="netizine.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="James Melvin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="thenetizine | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://netizine.com)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/jmelvin)
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://instagram.com/thenetizine)
 <br />
 ### Languages and Tools:
 <img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
@@ -57,6 +57,3 @@ while (true)
   SaveTheDayWith("C#");
 }
 ```
-[website]: https://netizine.com
-[instagram]: https://instagram.com/thenetizine
-[linkedin]: https://www.linkedin.com/in/jmelvin/
