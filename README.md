@@ -7,9 +7,8 @@ I am what you could consider a **netizine** of the web.
 ## I'm a Nerd and J. R. R. Tolkien fan!!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact:  Able to sit in my chair for extended periods of time without numbness or fatigue and openly admit that If debugging is the process of removing software bugs, then I guess you can define my programming methodology as the process of putting them in. Born to take risks, love what I do and always trying to push the boundaries.
-<br />
-<br />
+- ⚡ Fun fact:  Able to sit in my chair for extended periods of time without numbness or fatigue and openly admit that If debugging is the process of removing software bugs,        then I guess you can define my programming methodology as the process of putting them in. Born to take risks, love what I do and always trying to push the boundaries.
+
 ### Connect with me:
 <br />
 [<img align="left" alt="netizine.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
