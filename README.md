@@ -4,16 +4,16 @@ I am what you could consider a **netizine** of the web.
 <br />
 [![Website](https://img.shields.io/website?label=netizine.com&style=for-the-badge&url=https%3A%2F%2Fnetizine.com)](https://netizine.com)
 
-## I'm a Nerd and J. R. R. Tolkien fan!!
+## I'm a Nerd and J. R. R. Tolkien fan!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact:  Able to sit in my chair for extended periods of time without numbness or fatigue and openly admit that If debugging is the process of removing software bugs, then I guess you can define my programming methodology as the process of putting them in. Born to take risks, love what I do and always trying to push the boundaries.
-## Connect with me:!!
+## Connect with me:
 [<img align="left" alt="netizine.com"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://netizine.com/)
 [<img align="left" alt="LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/jmelvin/)
 [<img align="left" alt="Instagram"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/thenetizine/)
 <br />
-## Languages and Tools:!!
+## Languages and Tools:
 <img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Azure" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
 <img align="left" alt="AWS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
@@ -30,8 +30,8 @@ I am what you could consider a **netizine** of the web.
 <img align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <br />
+## Stats:
 <br />
-## Stats:!!
 [![Netizine's GitHub stats](https://github-readme-stats.vercel.app/api?username=netizine&theme=prussian&show_icons=true)](https://github.com/netizine/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netizine&layout=compact)](https://github.com/netizine/github-readme-stats)
 
