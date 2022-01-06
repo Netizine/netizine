@@ -11,9 +11,7 @@ I am what you could consider a **netizine** of the web.
 
 ### Connect with me:
 <br />
-[![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://netizine.com)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/jmelvin)
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://instagram.com/thenetizine)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://netizine.com)
 <br />
 ### Languages and Tools:
 <img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
