@@ -30,12 +30,13 @@ I am what you could consider a **netizine** of the web.
 <img align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <br />
+<br />
 ## Stats:
 <br />
 [![Netizine's GitHub stats](https://github-readme-stats.vercel.app/api?username=netizine&theme=prussian&show_icons=true)](https://github.com/netizine/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netizine&layout=compact)](https://github.com/netizine/github-readme-stats)
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Leverage the System.Text.Json source generator for a considerable performance boost](https://www.netizine.com/post/leverage-the-system-text-json-source-generator-for-a-considerable-performance-boost)
